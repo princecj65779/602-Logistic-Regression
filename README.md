@@ -8,19 +8,19 @@ Here is the summary of the dataset on which logistic regression would be perform
 
 
 ########################### Types ###########################
-Number  of times pregnant       int64
-Plasma glucose                  int64
-Diastolic blood pressure        int64
-Triceps skinfold thickness      int64
-serum insulin                   int64
-Body mass index               float64
-Diabetes pedigree function    float64
-Age                             int64
-Class                           int64
+* Number  of times pregnant       int64
+* Plasma glucose                  int64
+* Diastolic blood pressure        int64
+* Triceps skinfold thickness      int64
+* serum insulin                   int64
+* Body mass index               float64
+* Diabetes pedigree function    float64
+* Age                             int64
+* Class                           int64
 
 
 
-########################### Head ###########################
+########################### Head ########################### <br />
    Number  of times pregnant  Plasma glucose  ...  Age  Class
 0                          6             148  ...   50      1
 1                          1              85  ...   31      0
